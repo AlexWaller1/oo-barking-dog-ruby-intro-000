@@ -1,8 +1,9 @@
 class Dog
-def initialize(dog,name)
-  @dog=dog
-  @name=name
+def name
+  @name
 end
+
+dog.name="Bodhi"
 
 def bark
   puts "woof"
