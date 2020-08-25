@@ -1,9 +1,7 @@
 class Dog
-def name
-  @name
+attr_reader:name
+attr_writer:name
 end
-
-dog.name="Bodhi"
 
 def bark
   puts "woof"
