@@ -5,6 +5,3 @@ def initialize(dog,name,bark)
   @bark=bark
 end
 end
-
-
-
