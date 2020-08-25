@@ -3,6 +3,6 @@ attr_reader:name
 attr_writer:name
 
 def bark
-  puts "woof"
+  puts "woof!"
  end
 end
