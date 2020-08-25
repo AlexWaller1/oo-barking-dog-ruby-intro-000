@@ -5,6 +5,7 @@ def initialize(dog,name,bark)
   @bark=bark
 end
 end
+end
 
 def bark
   puts "woof"
